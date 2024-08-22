@@ -1,0 +1,5 @@
+com\pruebaTecnica\nttdata\pruebaTecnica\models\dao\ClienteRepository.class
+com\pruebaTecnica\nttdata\pruebaTecnica\models\service\ClienteService.class
+com\pruebaTecnica\nttdata\pruebaTecnica\models\controllers\ClienteController.class
+com\pruebaTecnica\nttdata\pruebaTecnica\models\entity\Cliente.class
+com\pruebaTecnica\nttdata\pruebaTecnica\PruebaTecnicaApplication.class
