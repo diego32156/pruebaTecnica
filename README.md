@@ -18,7 +18,7 @@ Clona este repositorio:
 
 bash
 Copiar código
-git clone https://github.com/usuario/proyecto-consulta-clientes.git
+git clone [https://github.com/usuario/proyecto-consulta-clientes.git](https://github.com/diego32156/pruebaTecnica)
 Navega al directorio del proyecto:
 
 bash
